@@ -2,5 +2,6 @@ site_name: My Docs
 pages:
   - Home: index.md
   - about: about.md
-
+  - 第一章: 第一章/hello.md
+  - 第二章:
 theme: readthedocs
