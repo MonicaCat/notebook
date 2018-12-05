@@ -3,10 +3,13 @@ site_name: 中学生编程
 nav:
 #  - Home: index.md
   - 前言: 介绍.md
-  - 第一章 环境搭建: 第1章/如何搭建Python.md
+  - 第一章 环境搭建:
+      - 什么是操作系统: 第1章/什么是操作系统.md
+      - 如何搭建环境: 第1章/如何搭建Python.md
   - 第二章 基础:
-      - Hello World: 第2章/如何搭建Python.md
-      - 数据类型: 第2章/如何搭建Python.md
+      - 开始编程: 第2章/开始编程.md
+      - 基础数据: 第2章/基础数据.md
+      - 变量是什么: 第2章/变量.md
   - about: aboutme.md
 
 theme: readthedocs
