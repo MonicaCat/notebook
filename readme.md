@@ -1,5 +1,6 @@
 # 说明
 本项目是一本关于中学生学习编程的入门书籍
+
 项目地址为：[http://blackedu.readthedocs.io](http://blackedu.readthedocs.io)
 
 鉴于作者水平有限，书中可能存在内容排版欠缺或者内容错误的地方，还请读者朋友指出，非常感谢。
@@ -11,5 +12,7 @@
 
 ## 联系方式
 邮箱：vinctchanx@gmail.com
+
 QQ：971516583
+
 个人网站：[http://www.blackedu.vip](http://www.blackedu.vip)
